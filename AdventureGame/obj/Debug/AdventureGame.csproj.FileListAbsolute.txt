@@ -1,0 +1,6 @@
+C:\Users\camsc\OneDrive\devCode\demo\visualStudio\AdventureGame\AdventureGame\bin\Debug\AdventureGame.exe.config
+C:\Users\camsc\OneDrive\devCode\demo\visualStudio\AdventureGame\AdventureGame\bin\Debug\AdventureGame.exe
+C:\Users\camsc\OneDrive\devCode\demo\visualStudio\AdventureGame\AdventureGame\bin\Debug\AdventureGame.pdb
+C:\Users\camsc\OneDrive\devCode\demo\visualStudio\AdventureGame\AdventureGame\obj\Debug\AdventureGame.csprojResolveAssemblyReference.cache
+C:\Users\camsc\OneDrive\devCode\demo\visualStudio\AdventureGame\AdventureGame\obj\Debug\AdventureGame.exe
+C:\Users\camsc\OneDrive\devCode\demo\visualStudio\AdventureGame\AdventureGame\obj\Debug\AdventureGame.pdb
